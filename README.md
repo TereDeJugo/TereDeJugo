@@ -2,8 +2,9 @@
 
 I am a developer of web pages and video games, with not much experience but in constant learning
 
-# Lenguajes and Tools
+# Lenguages
 
-Javascript, HTML, CSS
-Python
+HTML5 CSS3 JavaScript Python
+
+
 
