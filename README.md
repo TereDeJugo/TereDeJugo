@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a developer of web pages and video games, with not much experience but in constant learning
+I am a developer of web pages and ocasional video games, with not much experience but in constant learning
 
 <img  alt="Banner" src="https://media.discordapp.net/attachments/801954316612534315/816431210950950982/BannerReal.jpg?width=960&height=472">
 
