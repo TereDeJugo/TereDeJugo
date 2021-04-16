@@ -8,4 +8,4 @@ I am a developer of web pages and ocasional video games, with not much experienc
 
 ## Extra
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TereDeJugo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TereDeJugo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
