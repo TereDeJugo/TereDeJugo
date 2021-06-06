@@ -10,6 +10,7 @@ I am a developer of web pages and ocasional video games, with not much experienc
 ## Links
 
 [Replit](https://replit.com/@TereDeJugo) - I code most of my projects here, I also have a few tutorials.
+
 [Glitch](https://glitch.com/@LoveAndJuiceBelow) - I use it to program some bullshit in html or node.
 
 ## Extra
