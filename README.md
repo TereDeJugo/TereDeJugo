@@ -7,6 +7,11 @@ I am a developer of web pages and ocasional video games, with not much experienc
 [<img align="left" alt="CSS3" width="30px" src="https://storagemisellf.blob.core.windows.net/images/logo/skills/css-logo.png"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img alt="Python" width="30px" src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"/>](https://python.org)
 
+## Links
+
+[Replit](https://replit.com/@TereDeJugo) - I code most of my projects here, I also have a few tutorials.
+[Glitch](https://glitch.com/@LoveAndJuiceBelow) - I use it to program some bullshit in html or node.
+
 ## Extra
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lajbel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
