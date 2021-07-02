@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a teen coder, front-end, games and bots. [This is my stack](https://stackshare.io/lajbel/my-stack) and my [Replit.](https://replit.com/@TereDeJugo)
+I am a teen coder, front-end, games and bots. [This is my stack](https://stackshare.io/lajbel/my-stack) and my [Replit.](https://replit.com/@lajbel)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G748UR8)
 
